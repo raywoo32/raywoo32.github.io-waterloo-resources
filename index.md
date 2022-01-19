@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome My Complilation of Resources for Waterloo Students 
 
-You can use the [editor on GitHub](https://github.com/raywoo32/raywoo32.github.io-waterloo-resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In 2019 more than 25% of University of Waterloo students indicated that academics, career related issues, social relationships, finances, sleep and personal health issues were difficult or traumatic for them [1](https://uwaterloo.ca/institutional-analysis-planning/sites/ca.institutional-analysis-planning/files/uploads/files/2019_ncha-ii_university_of_waterloo_executive_summary_pdf.pdf). Although this clearly indicates a systemic problem, the goal of this website is to direct students to exisiting resources that could help them with these issues. Anecdotally, many students are not aware of resources available to them and this project attempts to bring awareness to student mental health and provide awareness of resources. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![Image](src)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Academics 
 
-```markdown
-Syntax highlighted code block
+Career 
 
-# Header 1
-## Header 2
-### Header 3
+Social Relationships
 
-- Bulleted
-- List
+Finances
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Citations 
+1. [American College Health Association. 2019. National College Health Assessment II University of Waterloo Executive Summary. American College Health Association.](https://uwaterloo.ca/institutional-analysis-planning/sites/ca.institutional-analysis-planning/files/uploads/files/2019_ncha-ii_university_of_waterloo_executive_summary_pdf.pdf)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/raywoo32/raywoo32.github.io-waterloo-resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
