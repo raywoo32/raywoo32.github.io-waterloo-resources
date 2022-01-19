@@ -1,4 +1,4 @@
-# Welcome 
+# 
 
 ## Resources for Waterloo Students 
 
@@ -27,7 +27,7 @@ Finances
 Human Rights, Equity and Inclusion
 
 
-
+[text](link)
 
 
 
