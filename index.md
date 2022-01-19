@@ -14,6 +14,8 @@ In 2019 more than 25% of University of Waterloo students indicated that academic
 ![Finances](./images/finances.png)
 ![Human Rights, Equity and Inclusion](./images/equity.png)
 
+[![Human Rights, Equity and Inclusion](./images/equity.png)](https://graphicdesign.stackexchange.com/questions/6765/how-do-i-directly-set-layer-positions-in-gimp)
+
 Academics
 
 Health 
