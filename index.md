@@ -9,14 +9,25 @@ In 2019 more than 25% of University of Waterloo students indicated that academic
 ![Health](./images/health.png)
 
 ![Career](./images/career.png)
-![Social Life](./images/social.png )
+![Social Life](./images/social.png)
 
 ![Finances](./images/finances.png)
 ![Human Rights, Equity and Inclusion](./images/equity.png)
 
+--------------
 
-[![Human Rights, Equity and Inclusion](./images/equity.png)](/subpages/academics.md)
+[![Academics](./images/academics.png)](/subpages/academics.md)
+[![Health](./images/health.png)](/subpages/health.md)
 
+
+[![Career](./images/career.png)](/subpages/career.md)
+[![Social Life](./images/social.png)](/subpages/social.md)
+
+
+[![Finances](./images/finances.png)](/subpages/finances.md)
+[![Human Rights, Equity and Inclusion](./images/equity.png)](/subpages/equity.md)
+
+-----------
 
 [Test Link](/subpages/academics.md)
 
