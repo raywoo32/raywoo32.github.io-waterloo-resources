@@ -1,4 +1,4 @@
-## **Immigrant Consulting **
+## **Immigrant Consulting**
 ### Who is this for?
 ### What services do they offer?
 https://uwaterloo.ca/student-success/international-student-resources/immigration-consulting 
