@@ -2,15 +2,18 @@
 
 ## Academics
 
-#### Academic Advisors 
+### Academic Advisors 
+#### Who is this for? 
+#### What services do they offer?
+
 
 https://uwaterloo.ca/registrar/current-students/advisors
 
-#### Writing and Communication Centre 
+### Writing and Communication Centre 
 
 https://uwaterloo.ca/writing-and-communication-centre/
 
-#### Student Success Office
+### Student Success Office
 
 https://uwaterloo.ca/student-success/
 
