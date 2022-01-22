@@ -6,7 +6,7 @@ In 2019 more than 25% of University of Waterloo students indicated that academic
 
 --------------
 
-[![Academics](./images/academics.png)](/subpages/academics.md)
+[![Academics](./images/academics.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/academics.md)
 [![Health](./images/health.png)](/subpages/health.md)
 
 
