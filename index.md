@@ -4,16 +4,6 @@
 
 In 2019 more than 25% of University of Waterloo students indicated that academics, career related issues, social relationships, finances, sleep and/or personal health issues were difficult or traumatic for them [1]. Although this clearly indicates a systemic problem, the goal of this website is to direct students to exisiting resources that could help them with these issues. Anecdotally, many students are not aware of resources available to them and this project attempts to bring awareness to student mental health and provide awareness of resources. 
 
-
-![Academics](./images/academics.png)
-![Health](./images/health.png)
-
-![Career](./images/career.png)
-![Social Life](./images/social.png)
-
-![Finances](./images/finances.png)
-![Human Rights, Equity and Inclusion](./images/equity.png)
-
 --------------
 
 [![Academics](./images/academics.png)](/subpages/academics.md)
@@ -24,13 +14,10 @@ In 2019 more than 25% of University of Waterloo students indicated that academic
 [![Social Life](./images/social.png)](/subpages/social.md)
 
 
-[![Finances](./images/finances.png)](/subpages/finances.md)
+[![Finances](./images/finances.png)](/subpages/finaces.md)
 [![Human Rights, Equity and Inclusion](./images/equity.png)](/subpages/equity.md)
 
------------
-
-[Test Link](/subpages/academics.md)
-
+--------------
 
 
 
