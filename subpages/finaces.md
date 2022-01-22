@@ -4,7 +4,7 @@
 https://uwaterloo.ca/finance/student-financial-services 
 
 
-## **The Centre **
+## **The Centre**
 ### Who is this for?**
 ### What services do they offer?
 https://uwaterloo.ca/the-centre/
@@ -15,7 +15,7 @@ https://uwaterloo.ca/the-centre/
 https://wusa.ca/services/food-support-service 
 
 
-## **Landlord Renant Disputes **
+## **Landlord Renant Disputes**
 ### Who is this for?**
 ### What services do they offer?
 https://uwaterloo.ca/off-campus-housing/students/resources/issues 
