@@ -15,6 +15,7 @@ In 2019 more than 25% of University of Waterloo students indicated that academic
 ![Human Rights, Equity and Inclusion](./images/equity.png)
 
 
+[![Human Rights, Equity and Inclusion](./images/equity.png)](/subpages/academics.md)
 
 
 [Test Link](/subpages/academics.md)
