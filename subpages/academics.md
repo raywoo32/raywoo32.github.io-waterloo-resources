@@ -3,8 +3,8 @@
 ## Academics
 
 ## Academic Advisors
-### ** Who is this for? **
-### ** What services do they offer? **
+### **Who is this for?**
+### **What services do they offer?**
 
 https://uwaterloo.ca/registrar/current-students/advisors
 
