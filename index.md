@@ -19,32 +19,6 @@ In 2019 more than 25% of University of Waterloo students indicated that academic
 
 --------------
 
-![Academics](./images/academics.png)
-![Health](./images/health.png)
-
-![Career](./images/career.png)
-![Social Life](./images/social.png )
-
-![Finances](./images/finances.png)
-![Human Rights, Equity and Inclusion](./images/equity.png)
-
---------------
-
-[Test Link](/subpages/academics.md)
-[Test Link](/subpages/health.md)
-
-[Test Link](/subpages/career.md)
-[Test Link](/subpages/social.md)
-
-[Test Link](/subpages/finaces.md)
-[Test Link](/subpages/equity.md)
-
-
-
-
-
-
-
 
 ## Citations 
 
