@@ -6,16 +6,16 @@ In 2019 more than 25% of University of Waterloo students indicated that academic
 
 --------------
 
-[![Academics](./images/academics.png)](./subpages/academics.md)
-[![Health](./images/health.png)](/subpages/health.md)
+[![Academics](./images/academics.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/academics.html)
+[![Health](./images/health.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/health.html)
 
 
-[![Career](./images/career.png)](/subpages/career.md)
-[![Social Life](./images/social.png)](/subpages/social.md)
+[![Career](./images/career.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/career.html)
+[![Social Life](./images/social.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/social.html)
 
 
-[![Finances](./images/finances.png)](/subpages/finaces.md)
-[![Human Rights, Equity and Inclusion](./images/equity.png)](/subpages/equity.md)
+[![Finances](./images/finances.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/finaces.html)
+[![Human Rights, Equity and Inclusion](./images/equity.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/equity.html)
 
 --------------
 
