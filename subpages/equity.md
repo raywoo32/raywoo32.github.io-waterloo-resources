@@ -4,7 +4,7 @@
 https://uwaterloo.ca/student-success/international-student-resources/immigration-consulting 
 
 ## **St. Paul’s Indigenous Wellness Centre**
-### Who is this for?**
+### Who is this for?
 ### What services do they offer?
 https://uwaterloo.ca/stpauls/waterloo-indigenous-student-centre 
 
