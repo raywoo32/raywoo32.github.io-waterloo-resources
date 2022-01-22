@@ -20,3 +20,9 @@ https://wusa.ca/services/food-support-service
 ### What services do they offer?
 https://uwaterloo.ca/off-campus-housing/students/resources/issues 
 https://uwaterloo.ca/off-campus-housing/students 
+
+
+## **Legal Services **
+### Who is this for?
+### What services do they offer?
+https://wusa.ca/services/student-legal-protection-program
