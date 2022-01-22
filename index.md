@@ -17,7 +17,7 @@ In 2019 more than 25% of University of Waterloo students indicated that academic
 
 
 
-
+[Test Link](/subpages/academics.md)
 
 
 
