@@ -9,9 +9,6 @@
 - Workshops (eg. Resume review) 
 - Career planning resources
 
-https://uwaterloo.ca/career-action/about-centre-career-action
-
-
 ## [Co-operative Education](https://uwaterloo.ca/co-operative-education/)
 ### **Who is this for?**
 - Co-op students
