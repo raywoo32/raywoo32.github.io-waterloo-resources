@@ -14,7 +14,7 @@
   
 
 
-## [St. Paul’s Indigenous Wellness Centre]](https://uwaterloo.ca/stpauls/waterloo-indigenous-student-centre)
+## [St. Paul’s Indigenous Wellness Centre](https://uwaterloo.ca/stpauls/waterloo-indigenous-student-centre)
 ### **Who is this for?**
 - Indigenous students from all backgrounds, regardless of status, reserve or urban background, or level of cultural knowledge
 ### **What services do they offer?**
