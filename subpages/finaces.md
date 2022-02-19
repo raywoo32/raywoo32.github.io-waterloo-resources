@@ -5,15 +5,15 @@
     - All students
 - **What services do they offer?**
     - Central hub for all information about finances including: 
-            - Fees: important dates, tuition and non tuition fees, health insurance plan
-            - How to pay fees: refunds, how to make payments, fee arranged and promissory notes
-            - General Information: tax documents, removing holds on your account, understanding your accounts 
+    - Fees: important dates, tuition and non tuition fees, health insurance plan
+    - How to pay fees: refunds, how to make payments, fee arranged and promissory notes
+    - General Information: tax documents, removing holds on your account, understanding your accounts 
 
 ## [The Centre](https://uwaterloo.ca/the-centre/)
 - **Who is this for?**
     - All students 
 - **What services do they offer?**
-    - Help with concerns related toadmissions, OSAP, financial aid, transcripts and other official documents, paying tuition, co-op, housing, student records, and more
+    - Help with concerns related to admissions, OSAP, financial aid, transcripts and other official documents, paying tuition, co-op, housing, student records, and more
     - Can be contacted by phone, chatbot, email, livechat or in person 
 
 ## [Food Support Service](https://wusa.ca/services/food-support-service)
