@@ -5,14 +5,14 @@
     - Any international students or non-Canadian students 
 - **What services do they offer?**
     - One on one appointments for advice regarding: 
-            - Study permits
-            - Working on and off campus
-            - Co-op work permits
-            - Temporary resident visas (TRV)
-            - Electronic Travel Authorizations (eTA)
-            - Post-graduation work permits
-            - Permits and TRVs for spouse/common-law partner and/or children
-            - Requirements to enter Canada during the COVID-19 pandemic
+    - Study permits
+    - Working on and off campus
+    - Co-op work permits
+    - Temporary resident visas (TRV)
+    - Electronic Travel Authorizations (eTA)
+    - Post-graduation work permits
+    - Permits and TRVs for spouse/common-law partner and/or children
+    - Requirements to enter Canada during the COVID-19 pandemic
   
 
 
