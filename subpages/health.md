@@ -1,3 +1,5 @@
+# Health Resources
+
 ## [Health Services](https://uwaterloo.ca/campus-wellness/health-services)
 - **Who is this for?**
     - All student and faculty 
