@@ -1,3 +1,5 @@
+# Financial Information and Resources
+
 ## [Student Finanical Services](https://uwaterloo.ca/finance/student-financial-services)
 - **Who is this for?**
     - All students
