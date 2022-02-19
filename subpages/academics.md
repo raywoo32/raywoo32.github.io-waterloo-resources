@@ -13,7 +13,7 @@
 ## [Writing and Communication Centre](https://uwaterloo.ca/writing-and-communication-centre/)
 - **Who is this for?**
   - Any student who needs help with writing or communication! 
-**What services do they offer?**
+- **What services do they offer?**
   - One on one meetings to get feedback on your work 
   - Asynchronous workshops 
 
