@@ -1,14 +1,13 @@
 # Academic Resources
 
 ## [Academic Advisors](https://uwaterloo.ca/registrar/current-students/advisors)
-### **Who is this for?**
-- All students 
-
-### **What services do they offer?**
-- They advise meeting with your academic advisor at least once a term
-- If you have questions, concerns, or ideas about your studies, contact your academic advisor
-- If you’re not doing as well as expected, see your academic advisor
-- If you need to drop courses or take a term off talk to your academic advisor 
+- **Who is this for?**
+  - All students 
+- **What services do they offer?**
+  - They advise meeting with your academic advisor at least once a term
+  - If you have questions, concerns, or ideas about your studies, contact your academic advisor
+  - If you’re not doing as well as expected, see your academic advisor
+  - If you need to drop courses or take a term off talk to your academic advisor 
 
 
 ## [Writing and Communication Centre](https://uwaterloo.ca/writing-and-communication-centre/)
