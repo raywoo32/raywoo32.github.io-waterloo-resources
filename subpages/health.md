@@ -5,14 +5,14 @@
     - All student and faculty 
 - **What services do they offer?**
     - Many health related services including but not limited to: 
-            - Booked appointments 
-            - flu vaccines
-            - Covid19 testing 
-            - Verification of illness
-            - Gender affirmative care
-            - Mental Health Office refferal 
-            - Pregnancy and birth control  
-            - STI testing 
+    - Booked appointments 
+    - flu vaccines
+    - Covid19 testing 
+    - Verification of illness
+    - Gender affirmative care
+    - Mental Health Office refferal 
+    - Pregnancy and birth control  
+    - STI testing 
    
 
 ## [Counselling Services](https://uwaterloo.ca/campus-wellness/counselling-services)
