@@ -1,4 +1,4 @@
-# Academic Resources
+## Academic Resources
 
 ## [Academic Advisors](https://uwaterloo.ca/registrar/current-students/advisors)
 - **Who is this for?**
