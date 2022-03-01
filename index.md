@@ -18,6 +18,3 @@
 --------------
 
 
-## Citations 
-
-1. [American College Health Association. 2019. National College Health Assessment II University of Waterloo Executive Summary. American College Health Association.](https://uwaterloo.ca/institutional-analysis-planning/sites/ca.institutional-analysis-planning/files/uploads/files/2019_ncha-ii_university_of_waterloo_executive_summary_pdf.pdf)
