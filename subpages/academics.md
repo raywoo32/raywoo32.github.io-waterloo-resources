@@ -1,6 +1,6 @@
 # Academic Resources
 
-## [Academic Advisors 	&#128279; ](https://uwaterloo.ca/registrar/current-students/advisors){:target="_blank" rel="noopener"}
+## [Academic Advisors](https://uwaterloo.ca/registrar/current-students/advisors){:target="_blank" rel="noopener"}
 - **Who is this for?**
   - All students 
 - **What services do they offer?**
@@ -10,14 +10,14 @@
   - If you need to drop courses or take a term off talk to your academic advisor 
 
 
-## [Writing and Communication Centre](https://uwaterloo.ca/writing-and-communication-centre/){:target="_blank" rel="noopener"} 	&#128279;
+## [Writing and Communication Centre](https://uwaterloo.ca/writing-and-communication-centre/){:target="_blank" rel="noopener"} 
 - **Who is this for?**
   - Any student who needs help with writing or communication! 
 - **What services do they offer?**
   - One on one meetings to get feedback on your work 
   - Asynchronous workshops 
 
-## [Student Success Office](https://uwaterloo.ca/student-success/){:target="_blank" rel="noopener"} &#x1F517;
+## [Student Success Office](https://uwaterloo.ca/student-success/){:target="_blank" rel="noopener"} 
 - **Who is this for?**
   - All students 
 - **What services do they offer?**
