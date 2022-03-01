@@ -17,7 +17,7 @@
   - One on one meetings to get feedback on your work 
   - Asynchronous workshops 
 
-## [Student Success Office](https://uwaterloo.ca/student-success/){:target="_blank" rel="noopener"}
+## [Student Success Office](https://uwaterloo.ca/student-success/){:target="_blank" rel="noopener"} &#x1F517;
 - **Who is this for?**
   - All students 
 - **What services do they offer?**
