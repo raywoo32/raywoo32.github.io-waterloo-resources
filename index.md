@@ -2,8 +2,6 @@
 
 ## Resources for Waterloo Students 
 
-In 2019 more than 25% of University of Waterloo students indicated that academics, career related issues, social relationships, finances, sleep and/or personal health issues were difficult or traumatic for them [1]. Although this clearly indicates a systemic problem, the goal of this website is to direct students to exisiting resources that could help them with these issues. Anecdotally, many students are not aware of resources available to them and this project attempts to bring awareness to student mental health and provide awareness of resources. 
-
 --------------
 
 [![Academics](./images/academics.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/academics.html)
