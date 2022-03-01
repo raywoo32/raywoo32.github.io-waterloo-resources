@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 name: ""
-title: "Resources"
+title: ""
+markdown: kramdown
