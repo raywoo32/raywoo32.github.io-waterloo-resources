@@ -1,4 +1,7 @@
-# Resources for Diversity, Equity and Inclusion 
+
+|<img  alt="" src="">  [![Academics](../images/Buttons/Academics.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/academics.html) |  <img  alt="" src=""> [![Health ](../images/Buttons/Health.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/health.html) |<img  alt="" src=""> [![Career](../images/Buttons/Career.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/career.html) |
+|<img  alt="" src=""> [![Social Life](../images/Buttons/Social.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/social.html) |  <img  alt="" src=""> [![Finances](../images/Buttons/Finances.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/finaces.html) |<img alt="" src=""> [![Human Rights, Equity and Inclusion](../images/Buttons/selected/equity.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/equity.html) |
+
 
 ## [Immigrant Consulting](https://uwaterloo.ca/student-success/international-student-resources/immigration-consulting){:target="_blank" rel="noopener"}
 - **Who is this for?**
@@ -13,7 +16,7 @@
     - Post-graduation work permits
     - Permits and TRVs for spouse/common-law partner and/or children
     - Requirements to enter Canada during the COVID-19 pandemic
-  
+- [**Link to their website for more information**](https://uwaterloo.ca/student-success/international-student-resources/immigration-consulting){:target="_blank" rel="noopener"}
 
 
 ## [St. Paul’s Indigenous Wellness Centre](https://uwaterloo.ca/stpauls/waterloo-indigenous-student-centre){:target="_blank" rel="noopener"}
@@ -25,7 +28,7 @@
     - Pow Wows
     - Soup and Bannock days
     - Ceremonial Fire grounds 
-
+- [**Link to their website for more information**](https://uwaterloo.ca/stpauls/waterloo-indigenous-student-centre){:target="_blank" rel="noopener"}
 
 ## [Sexual Violence Prevention & Response Office](https://uwaterloo.ca/human-rights-equity-inclusion/svpro){:target="_blank" rel="noopener"}
 - **Who is this for?**
@@ -35,7 +38,7 @@
     -  Discuss resources for support or assistance 
     -  Facilitate requests for accomodations and other needs 
     -  They can be contacted if you or someone you know has experienced sexual violence 
-
+- [**Link to their website for more information**](https://uwaterloo.ca/human-rights-equity-inclusion/svpro){:target="_blank" rel="noopener"}
 
 ## [Conflict Management and Human Rights Office](https://uwaterloo.ca/human-rights-equity-inclusion/cmahro){:target="_blank" rel="noopener"}
 - **Who is this for?**
@@ -44,3 +47,4 @@
     - One on one appointments 
     - Other community resources
     - How to document a complaint 
+- [**Link to their website for more information**](https://uwaterloo.ca/human-rights-equity-inclusion/cmahro){:target="_blank" rel="noopener"}
