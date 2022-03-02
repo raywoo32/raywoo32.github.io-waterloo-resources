@@ -1,4 +1,6 @@
+# Resources for Waterloo Students 
 
+This website is a companion to the AR app you are using! If you want more information about the resources shown on the map, click on the corresponding button for more! 
 
 --------------
 
