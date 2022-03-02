@@ -1,9 +1,9 @@
 
-|<img  alt="" src="">  [![Academics](./images/Buttons/selected/Academics.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/academics.html) |  <img  alt="" src=""> [![Health ](./images/Buttons/Health.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/health.html) |<img  alt="" src=""> [![Career](./images/Buttons/Career.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/career.html) |
+|<img  alt="" src="">  ![Academics](./images/Buttons/selected/Academics.png) |  <img  alt="" src=""> [![Health ](./images/Buttons/Health.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/health.html) |<img  alt="" src=""> [![Career](./images/Buttons/Career.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/career.html) |
 |<img  alt="" src=""> [![Social Life](./images/Buttons/Social.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/social.html) |  <img  alt="" src=""> [![Finances](./images/Buttons/Finances.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/finaces.html) |<img alt="" src=""> [![Human Rights, Equity and Inclusion](./images/Buttons/equity.png)](https://raywoo32.github.io/raywoo32.github.io-waterloo-resources/subpages/equity.html) |
 
 
-## [Academic Advisors](https://uwaterloo.ca/registrar/current-students/advisors){:target="_blank" rel="noopener"}
+## Academic Advisors
 - **Who is this for?**
   - All students 
 - **What services do they offer?**
@@ -13,7 +13,7 @@
   - If you need to drop courses or take a term off talk to your academic advisor 
 - [**Link to their website for more information**](https://uwaterloo.ca/registrar/current-students/advisors){:target="_blank" rel="noopener"}
 
-## [Writing and Communication Centre](https://uwaterloo.ca/writing-and-communication-centre/){:target="_blank" rel="noopener"} 
+## Writing and Communication Centre
 - **Who is this for?**
   - Any student who needs help with writing or communication! 
 - **What services do they offer?**
@@ -21,7 +21,7 @@
   - Asynchronous workshops 
 - [**Link to their website for more information**](https://uwaterloo.ca/writing-and-communication-centre/){:target="_blank" rel="noopener"} 
 
-## [Student Success Office](https://uwaterloo.ca/student-success/){:target="_blank" rel="noopener"} 
+## Student Success Office 
 - **Who is this for?**
   - All students 
 - **What services do they offer?**
@@ -31,7 +31,7 @@
   - International student resources 
 - [**Link to their website for more information**](https://uwaterloo.ca/student-success/){:target="_blank" rel="noopener"} 
 
-## [AccessAbility Services](https://uwaterloo.ca/accessability-services/){:target="_blank" rel="noopener"}
+## AccessAbility Services
 - **Who is this for?**
   - Any student that needs academic accomodation 
 - **What services do they offer?**
