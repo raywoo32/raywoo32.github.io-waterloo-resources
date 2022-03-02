@@ -3,7 +3,7 @@
 
 
 
-## [Clubs]
+## Clubs
 - **Who is this for?**
     - Anyone who wants to be involved in these clubs! 
 - **What services do they offer?**
